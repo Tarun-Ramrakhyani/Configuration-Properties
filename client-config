@@ -1,2 +1,0 @@
-#stock api url
-stock.api.url=http://localhost:1111/stockPrice/getPriceByStockName/
